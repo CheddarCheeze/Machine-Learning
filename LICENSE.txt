@@ -1,0 +1,4 @@
+LICENSE
+
+Licensed under the MIT license. See LICENSE-MIT for license text.
+Include a link to the repository if used.
